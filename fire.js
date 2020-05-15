@@ -14,7 +14,6 @@ function createFireDataStructure() {
     firePixelsArray[i] = 0;
   }
 }
-s;
 
 function calculateFirePropagation() {}
 
